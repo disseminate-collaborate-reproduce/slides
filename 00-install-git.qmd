@@ -1,0 +1,84 @@
+---
+title: "Git/Hub Setup"
+author: "Dr Mine Dogucu & Dr Sinem Demirci"
+format: 
+  revealjs:
+    slide-number: true
+    theme: ["slide-style.scss"]
+    incremental: true
+---
+
+## Goals
+
+
+::: {.nonincremental}
+
+- Install git
+- Introduce yourself to git
+- Setup SSH key
+
+:::
+
+
+# How do we do that?
+
+
+::: {.note}
+
+For the first three goals, we will use [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+:::
+
+
+::: {style="text-align: center;"}
+
+# Goal 1: Install git
+
+:::
+
+
+## Check to see if you already have git
+
+<video align = "center" controls>
+  <source src="screencast/check-git-install.mp4" type="video/mp4">
+</video>
+
+
+## Install git
+
+
+- If you are a Windows user, click [Git for Windows](https://gitforwindows.org/) 
+- If you are a Mac user, type this command in your terminal pane
+- xcode-select --install
+
+
+::: {style="text-align: center;"}
+
+# Goal 2: Introduce yourself to git
+
+:::
+
+##
+
+<video align = "center" controls>
+  <source src="screencast/introduce-yourself.mp4" type="video/mp4">
+</video>
+
+
+
+
+
+
+::: {style="text-align: center;"}
+
+# Goal 3: Setup SSH key
+
+:::
+
+
+##
+
+<video align = "center" controls>
+  <source src="screencast/github-ssh.mp4" type="video/mp4">
+</video>
+
