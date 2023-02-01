@@ -10,14 +10,10 @@ format:
 
 ## Goals
 
-
-::: {.nonincremental}
-
 - Install git
 - Introduce yourself to git
 - Setup SSH key
 
-:::
 
 
 # How do we do that?
