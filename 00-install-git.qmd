@@ -47,9 +47,9 @@ For the first three goals, we will use [Happy Git and GitHub for the useR](https
 ## Install git
 
 
-- If you are a Windows user, click [Git for Windows](https://gitforwindows.org/) 
-- If you are a Mac user, type this command in your terminal pane
-- xcode-select --install
+- If you are a Windows user, click [Git for Windows](https://gitforwindows.org/)
+- If you are a Mac user, click [Git for Mac](https://git-scm.com/download/mac) 
+- If you use Linux, Bon Voyage and get there safe.
 
 
 ::: {style="text-align: center;"}
