@@ -1,0 +1,13 @@
+---
+title: "Introduction to Git and GitHub"
+author: "Dr Mine Dogucu"
+format: 
+  revealjs:
+    slide-number: true
+    theme: ["slide-style.scss"]
+    incremental: true
+---
+
+
+
+
