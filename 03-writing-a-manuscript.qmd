@@ -1,0 +1,66 @@
+---
+title: "Writing a Manuscript"
+author: "Sinem Demirci"
+format: 
+  revealjs:  
+      slide-number: true
+      incremental: true
+---
+
+## In this section...
+
+. . .
+
+We will cover the basics of writing a manuscript (technically, not conceptually) by using a journal format in Quarto. 
+
+. . .
+
+To learn more about Quarto Journal Formats see <https://quarto.org/docs/journals/>.
+
+. . .
+
+Alternatively, you can use The `rticles` package which provides a suite of custom R Markdown LaTeX formats and templates for various formats.  <https://github.com/rstudio/rticles>
+
+## Creating A New Article 
+. . .
+
+:::: {.columns}
+
+::: {.column width="60%"}
+By using a command
+
+```{.r}
+quarto use template quarto-journals/jasa
+```
+
+
+:::
+
+::: {.column width="40%"}
+By accessing [our template repo](https://github.com/disseminate-collaborate-reproduce/manuscript) on GitHub.com using SSH
+:::
+
+::::
+
+. . .
+
+::: {.r-stack}
+![](03-img/fig1.png){.fragment .r-strech}
+
+![](03-img/fig2.png){.fragment .r-strech}
+
+![](03-img/fig3.png){.fragment .r-strech}
+
+:::
+
+. . .
+
+## Let's Grasp the Basics
+
+- blinding the manuscript
+- cross referencing a figure
+- cross referencing a table
+- a table made with kableExtra (?)
+- citation
+- equations and numbering equations
+

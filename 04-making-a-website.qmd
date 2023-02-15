@@ -1,0 +1,66 @@
+---
+title: "Creating a Website with Quarto"
+author: "Dr Sinem Demirci"
+format: 
+  revealjs:
+    slide-number: true
+    theme: ["slide-style.scss"]
+    incremental: true
+---
+
+## How to Create a Quarto Website
+
+- Create a new project in RStudio
+- Select 'Quarto Website'
+- Grasp the basics
+- Publish it!!
+
+
+
+# 
+
+
+::: {.note}
+
+In this part, we will mainly follow the steps given in [Quarto - Creating a Website](https://quarto.org/docs/websites/)
+
+:::
+
+
+::: {style="text-align: center;"}
+
+## How to Create a Quarto Website Document
+
+- Create a **'New Project'** in RStudio
+- Select **'New Directory'**
+- Select **'Quarto Website'**
+- Let's see what we have in our panes
+  - Source Editor (see some files are already opened)
+  - Build pane (allows us to render the website) (please DO NOT RENDER yet!)
+  - Files pane (we have .yml file, .css file, and several .qmd files)
+
+:::
+
+
+## Introducing the basics
+
+- index file
+  - It will be the home page of our website.
+- .yml file 
+  - Every website has a `.yml` config file that provides website options as well as defaults for HTML documents created within the site.
+  - Let's create an output directory for our webpage as `output-dir: docs`
+- Find **'Build'** pane on the right and click **'Render Website'**
+  - Let's explore `.yml` file again to understand the basics of website navigation
+
+
+
+## Let's Get it Published!
+
+- We will use GitHub pages deployment (e.g.)
+- Sign in to YOUR GitHub account
+- Create a new **private** repo called **username.github.io**
+- Click **Settings** on the top
+- Click **Pages** on the left
+- Where it says `none`, select `main`
+- Where it says `/(root)`, select `/docs` and click `Save`
+- You are almost ready.
