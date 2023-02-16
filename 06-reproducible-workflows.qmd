@@ -11,11 +11,17 @@ format:
 
 ## Goals
 
+- Version control
 - Naming files
 - README.md
 - gitignore
 - Importing data
-- Collaborating on GitHub
+
+
+## Version control
+
+- A reproducible workflow tracks changes with meaningful commit messages. 
+- Note that certain file types cannot be version controlled. For instance, instead of using Word or Excel you can use markdown and csv files respectively. 
 
 ## Naming files
 
