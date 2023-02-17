@@ -37,7 +37,7 @@ quarto use template quarto-journals/jasa
 :::
 
 ::: {.column width="40%"}
-By accessing [our template repo](https://github.com/disseminate-collaborate-reproduce/manuscript) on GitHub.com using SSH
+By accessing [our template repo](https://github.com/disseminate-collaborate-reproduce/03-manuscript) on GitHub.com using SSH
 :::
 
 ::::
