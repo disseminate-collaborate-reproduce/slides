@@ -56,7 +56,7 @@ In this part, we will mainly follow the steps given in [Quarto - Creating a Webs
 
 ## Let's Get it Published!
 
-- We will use GitHub pages deployment (e.g.)
+- We will use GitHub pages deployment but there are other options as well (e.g., Netlify, Posit Connect)
 - Sign in to YOUR GitHub account
 - Create a new **private** repo called **username.github.io**
 - Click **Settings** on the top
