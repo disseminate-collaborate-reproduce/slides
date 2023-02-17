@@ -45,11 +45,11 @@ By accessing [our template repo](https://github.com/disseminate-collaborate-repr
 . . .
 
 ::: {.r-stack}
-![](03-img/fig1.png){.fragment .r-strech}
+![](img/manuscript-fig1.png){.fragment .r-strech}
 
-![](03-img/fig2.png){.fragment .r-strech}
+![](img/manuscript-fig2.png){.fragment .r-strech}
 
-![](03-img/fig3.png){.fragment .r-strech}
+![](img/manuscript-fig3.png){.fragment .r-strech}
 
 :::
 
@@ -60,7 +60,6 @@ By accessing [our template repo](https://github.com/disseminate-collaborate-repr
 - blinding the manuscript
 - cross referencing a figure
 - cross referencing a table
-- a table made with kableExtra (?)
 - citation
 - equations and numbering equations
 
