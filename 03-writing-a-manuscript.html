@@ -411,37 +411,56 @@ Sinem Demirci
 <p>Alternatively, you can use The <code>rticles</code> package which provides a suite of custom R Markdown LaTeX formats and templates for various formats. <a href="https://github.com/rstudio/rticles" class="uri">https://github.com/rstudio/rticles</a></p>
 </div>
 </section>
-<section id="creating-a-new-article" class="slide level2">
-<h2>Creating A New Article</h2>
+<section id="creating-a-new-article-template" class="slide level2">
+<h2>Creating A New Article Template</h2>
 <div class="fragment">
-<div class="columns">
-<div class="column" style="width:60%;">
-<p>By using a command</p>
+<ul>
+<li class="fragment">We will use the template of <strong>Journals of the American Statistical Association (JASA)</strong></li>
+<li class="fragment">You each have a repo with the name <code>03-manuscript-username</code> on GitHub.com.</li>
+<li class="fragment">Please find and clone this repo and we will go through this repo together.</li>
+</ul>
+</div>
+</section>
+<section id="lets-grasp-the-basics---i" class="slide level2">
+<h2>Let’s Grasp the Basics - I</h2>
+<ul>
+<li class="fragment">Get familiar with some files
+<ul>
+<li class="fragment"><strong><code>README.md</code> file:</strong> the first file that a user will visit in your repo (Mine will talk about it later).</li>
+<li class="fragment"><strong><code>.pdf</code> file:</strong> preview of your rendered template</li>
+<li class="fragment"><strong><code>.tex</code> file:</strong> LaTeX file</li>
+<li class="fragment"><strong><code>bibliography.bib</code> file:</strong> BibLaTeX file, a bibliographic data source</li>
+<li class="fragment"><strong><code>agsm.bst</code> file:</strong> one of the bibliography styles within the harvard family</li>
+</ul></li>
+</ul>
+</section>
+<section id="lets-grasp-the-basics---ii" class="slide level2">
+<h2>Let’s Grasp the Basics - II</h2>
+<ul>
+<li class="fragment">Open the <code>03-manuscript-username.qmd</code> file</li>
+<li class="fragment">Click <strong>Render</strong> and compare <code>.qmd</code> file and <code>.pdf</code> file together
+<ul>
+<li class="fragment">blinding the manuscript</li>
+<li class="fragment">cross referencing a table</li>
+<li class="fragment">citation (how to copy them to <code>.bib</code> file)</li>
+<li class="fragment">equations and numbering equations</li>
+<li class="fragment">cross referencing a figure</li>
+</ul></li>
+</ul>
+</section>
+<section id="alternatively" class="slide level2">
+<h2>Alternatively…</h2>
+<p>You can use a template by using a command</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a>quarto use template quarto<span class="sc">-</span>journals<span class="sc">/</span>jasa</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div><div class="column" style="width:40%;">
-<p>By accessing <a href="https://github.com/disseminate-collaborate-reproduce/03-manuscript">our template repo</a> on GitHub.com using SSH</p>
-</div>
-</div>
-</div>
-<div class="fragment">
 <div class="r-stack">
 <p><img data-src="img/manuscript-fig1.png" class="fragment r-strech"></p>
 <p><img data-src="img/manuscript-fig2.png" class="fragment r-strech"></p>
 <p><img data-src="img/manuscript-fig3.png" class="fragment r-strech"></p>
 </div>
-</div>
-</section>
-<section id="lets-grasp-the-basics" class="slide level2">
-<h2>Let’s Grasp the Basics</h2>
-<ul>
-<li class="fragment">blinding the manuscript</li>
-<li class="fragment">cross referencing a figure</li>
-<li class="fragment">cross referencing a table</li>
-<li class="fragment">citation</li>
-<li class="fragment">equations and numbering equations</li>
-</ul>
+<div class="fragment">
 <div class="footer footer-default">
 
+</div>
 </div>
 </section>
     </div>
