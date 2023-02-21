@@ -35,9 +35,8 @@ Alternatively, you can use The `rticles` package which provides a suite of custo
 - Get familiar with some files
   - **`README.md` file:** the first file that a user will visit in your repo (Mine will talk about it later).
   - **`.pdf` file:** preview of your rendered template
-  - **`.tex` file:** LaTeX file
   - **`bibliography.bib` file:** BibLaTeX file, a bibliographic data source
-  - **`agsm.bst` file:** one of the bibliography styles within the harvard family
+
 
 ## Let's Grasp the Basics - II
 
