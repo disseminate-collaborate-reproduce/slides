@@ -61,33 +61,16 @@ format:
 ::::
 
 
-## Outline
 
-:::: {.columns}
 
-::: {.column width="50%"}
-
-What we will teach you
-
-- Version control with git and GitHub
-- Writing reproducible reports with Quarto
-- Writing manuscripts with Quarto
-- Making websites with Quarto
-
-:::
-
-::: {.column width="50%"}
-
-What we assume you know
+## What we assume you know
 
 - R
 
 
-:::
+## Outline
 
-
-
-::::
+[disseminate-collaborate-reproduce.github.io/schedule](https://disseminate-collaborate-reproduce.github.io/schedule/)
 
 
 ## Who uses GitHub?
