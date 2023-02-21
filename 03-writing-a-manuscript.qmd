@@ -1,6 +1,6 @@
 ---
 title: "Writing a Manuscript"
-author: "Sinem Demirci"
+author: "Dr Sinem Demirci"
 format: 
   revealjs:  
       slide-number: true
