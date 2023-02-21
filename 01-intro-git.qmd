@@ -191,7 +191,7 @@ Important task for now is to first **commit** and then **push**.
 
 **repo** is a short form of repository. Repositories contain all of your project's files as well as each file's revision history.
 
-For this class our weekly repos (lecture code, quiz code etc.) are hosted on Github. 
+For this workshop our repos are hosted on Github. 
 
 To **clone** a GitHub repo to our computer, we first copy the cloning link as shown in screencast then start an RStudio project using that link.  
 
@@ -201,7 +201,7 @@ To **clone** a GitHub repo to our computer, we first copy the cloning link as sh
 
 ## Commits
 
-Once you make changes to your repo (e.g. take notes during lecture, answer a quiz question). you can take a snapshot of your changes with a commit.
+Once you make changes to your repo, you can take a snapshot of your changes with a commit.
 
 This way if you ever have to go back in version history you have your older commits to get back to. 
 This is especially useful, for instance, if you want to go back to an earlier solution you have committed.
@@ -214,7 +214,7 @@ This is especially useful, for instance, if you want to go back to an earlier so
 
 All the commits you make will initially be local (i.e. on your own computer). 
 
-In order for me to see your commits and your final submission on any assignment, you have to **push** your commits. In other words upload your files at the stage in that specific time.
+In order for me to see your commits, you have to **push** your commits. In other words upload your files at the stage in that specific time.
 
 
 
