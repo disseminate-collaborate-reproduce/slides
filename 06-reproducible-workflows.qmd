@@ -129,3 +129,23 @@ This function sets the working directory to the project folder (i.e. where the `
 ```{r eval = FALSE}
 read_csv(here::here("data/dataset.csv"))
 ```
+
+---
+
+It is also a good practice to save session information as package versions change, in order to be able to reproduce results from an analysis we need to know under what technical conditions the analysis was conducted.
+
+```{r echo=TRUE}
+sessionInfo()
+```
+
+---
+
+
+A better way to keep track of package versions, system settings during compiling a project is by using `renv::snapshot()`. This function will create a `renv.lock` and will take a snapshot of packages to be stored in this file. 
+
+---
+
+
+Even a better approach for reproducible versions would be using [Docker](https://jsta.github.io/r-docker-tutorial/).
+
+
